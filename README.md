@@ -7,6 +7,7 @@ for future usage:
 
 
 adapted from: 
+
 https://www.oyostepper.com/images/upload/File/DM320T.pdf
 https://forum.arduino.cc/t/stepper-motor-control-with-dm320t-and-arduino-uno/913382
 https://forum.dronebotworkshop.com/motors/stepper-motor-and-dm320t-driver/
