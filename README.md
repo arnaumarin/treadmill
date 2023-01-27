@@ -1,8 +1,8 @@
 # treadmill
 
 for future usage:
+![image](https://user-images.githubusercontent.com/79079324/215001612-94cccda4-66dc-44cd-9a53-c90fd6db4c48.png)
 
-![image](https://user-images.githubusercontent.com/79079324/215001537-93fd856e-abac-444a-a80f-f59f07285339.png)
 
 
 adapted from: 
