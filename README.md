@@ -2,7 +2,8 @@
 
 for future usage:
 
-![image](https://user-images.githubusercontent.com/79079324/215001453-040a141c-7843-4647-a1ae-70a94830330c.png)
+![image](https://user-images.githubusercontent.com/79079324/215001537-93fd856e-abac-444a-a80f-f59f07285339.png)
+
 
 adapted from: 
 https://www.oyostepper.com/images/upload/File/DM320T.pdf
